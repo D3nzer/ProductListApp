@@ -1,0 +1,87 @@
+html,
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+}
+
+
+.product {
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.headline2 {
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    float: left;
+    size: 25%;
+}
+
+.headline3 {
+    margin-top: 20px;
+    margin-right: 30px;
+    padding: 10px;
+    float: right;
+    size: 25%;
+}
+
+.headline {
+    margin-top: 20px;
+    margin-left: 30px;
+    float: left;
+    size: 50%;
+}
+
+.delete-checkbox {
+    float: left;
+}
+
+.main {
+    margin-left: 30px;
+    margin-right: 30px;
+    clear: both;
+    height: 800px;
+}
+
+.footer {
+    size: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+#delete-product-btn {
+    float: right;
+}
+
+#add {
+    float: left;
+}
+
+.xx {
+    margin-top: 20px;
+    margin-left: 30px;
+    float: right;
+    size: 25%;
+}
+
+.paddInp {
+    padding-bottom: 20px;
+}
+
+
+#body {
+    height: 100%;
+}
